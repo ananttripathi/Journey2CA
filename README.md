@@ -1,6 +1,6 @@
 # Journey2CA
 
-A structured platform for CA aspirants — Foundation, Intermediate & Final (New 2023 Scheme).
+A structured platform for CA aspirants — Foundation, Intermediate & Final (New 2023 Scheme).b
 
 ## What is Journey2CA?
 
